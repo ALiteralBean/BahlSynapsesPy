@@ -55,7 +55,7 @@ addSynInputs = 1 # 2: synaptic inputs and current injection
 # parameters for current injection, will be applied if addSynInputs is 0 or 2
 injectionLevel = 0.4 # nA
 injectionDuration = 500 # ms
-injectionStart = 100 # ms
+injectionStart = 101 # ms
 
 
 stimPeriod = 125 # ms, the interval between input spikes
